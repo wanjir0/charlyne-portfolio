@@ -18,7 +18,8 @@ function About() {
           <p>
             I'm currently growing my skills in HTML, CSS, JavaScript ,and can work with a MERN fullstack approach .
             I love learning new things and I'm always working on something new.
-            I'm also well farmilliar with mysql database.
+            I'm also about mildly knowledgeable with mysql database.
+            An an upcoming Angular developer and a passionate learner, I'm excited to continue growing my skills and building amazing projects in the future.
           </p>
           <a href="#contact" className="about-btn">Get In Touch</a>
         </div>

@@ -6,6 +6,7 @@ const skills = [
   { name: "Git & GitHub", level: "Beginner" },
   { name:  "Python", level: "Beginner"},
   { name: "MySQL", level: "Intermediate" },
+  { name: "Angular", level: "Beginner" },
 ]
 
 function Skills() {
